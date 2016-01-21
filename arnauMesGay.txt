@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -15,3 +16,6 @@
 
 
 Hey papa!!! It's me dam2_reload!!
+=======
+Hey mama!!! It's me, dam2!
+>>>>>>> origin/master
